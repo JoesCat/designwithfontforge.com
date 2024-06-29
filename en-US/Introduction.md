@@ -6,6 +6,8 @@ category: Before You Begin
 title: Introduction
 ---
 
+Test as an example
+
 This book has been produced to help make the process of type design available to anyone. Type design
 is visually complex as well as highly technical &mdash; however it is easier to begin making type
 now than ever, partly because of the availability of free tools like [FontForge]. While being a
